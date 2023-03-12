@@ -1,35 +1,35 @@
 {
   "events" : [
           {
-          "id": 122226,
-          "title": 'furry party',
-          "category": 'animal welfare',
-          "description": 'Find your new feline',
-          "location": 'MeowTown',
-          "date": 'July 7, 2023',
-          "time": '12:00',
-          "petsAllowed": true,
-          "organizer": 'Kat Laydee'
+          "id": "122226",
+          "title": "furry party",
+          "category": "animal welfare",
+          "description": "Find your new feline",
+          "location": "MeowTown",
+          "date": "July 7, 2023",
+          "time": "12:00",
+          "petsAllowed": "true",
+          "organizer": "Kat Laydee"
         },
         {
-          "id": 133336,
-          "title": 'furry party',
-          "category": 'animal welfare',
-          "description": 'Find your new feline',
-          "location": 'MeowTown',
-          "date": 'July 7, 2023',
-          "time": '12:00',
-          "petsAllowed": true,
-          "organizer": 'Kat Laydee'
+          "id": "133336",
+          "title": "furry party",
+          "category": "animal welfare",
+          "description": "Find your new pet",
+          "location": "MeowTown",
+          "date": "July 7, 2023",
+          "time": "12:00",
+          "petsAllowed": "true",
+          "organizer": "Pet Laydee"
         },
         {
-          "id": 144446,
-          "title": 'furry party',
-          "category": 'animal welfare',
-          "description": 'Find your new feline',
-          "location": 'MeowTown',
-          "date": 'July 7, 2023',
-          "time": '12:00',
-          "petsAllowed": true,
-          "organizer": 'Kat Laydee'
+          "id": "144446",
+          "title": "furry party",
+          "category": "animal welfare",
+          "description": "Find your new canine",
+          "location": "MeowTown",
+          "date": "July 7, 2023",
+          "time": "12:00",
+          "petsAllowed": "true",
+          "organizer": "Dog Laydee"
         }
